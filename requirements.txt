@@ -1,0 +1,6 @@
+pyTelegramBotAPI==4.23.0
+pyzbar==0.1.9
+Pillow==9.5.0
+python-dotenv==1.0.1
+urllib3==2.2.3
+requests==2.32.3
